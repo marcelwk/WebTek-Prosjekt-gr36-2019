@@ -1,0 +1,1 @@
+bare her fordi github tillater ikke tomme mapper, fjern med en gang vi får et bilde i denne mappen
